@@ -1,6 +1,6 @@
 # Learning Journal 
 
-## HTML
+## CSS
 
 ### Today I learned: Jan 16. 2023
 
