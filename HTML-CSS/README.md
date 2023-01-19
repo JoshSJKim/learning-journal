@@ -12,6 +12,8 @@
   
 For example:
 
+     a:link {
+      }
      a:visited {
       }
      a:hover {
